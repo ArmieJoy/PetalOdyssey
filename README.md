@@ -10,7 +10,6 @@
 - [License](#license)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- [Note] (#note)
 
 ## Description
 PetalOdyssey is your gateway to exploring the world of cherry blossoms. This project offers detailed guides on cherry blossom varieties, care tips, and cultural insights. Discover the best viewing locations, join a vibrant community, and shop for cherry blossom-themed items.
@@ -44,5 +43,5 @@ Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) guide
 ## Contact
 For questions or feedback, reach out to Armie Joy U. Tangalin.
 
-## Note
+## 
 I am also looking to join a passionate team to help enhance this project!
